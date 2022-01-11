@@ -1,5 +1,10 @@
 # Resouces
 
+All the materiels and exercices and examples done during the courses are within the *resources* folder
+
+- day00 (2022-01-08 16h00) : Introduction to algorithmes and web dev
+- day01 (2022-01-11 12h00) : Web architecture and C programming language
+
 ## Learning websites:
 - Learn HTML :
 https://www.w3schools.com/
