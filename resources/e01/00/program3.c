@@ -55,7 +55,7 @@ int main(){
 
     // printf("sndo9_1 : %d\n",sndok_1);
     // fonction_1();  //calling function_1
-   // calculer_age(1999,11); //calling calculer_age
+   calculer_age(1999,11); //calling calculer_age
    // calculAge_2(1994,12);
 
     return (0);
