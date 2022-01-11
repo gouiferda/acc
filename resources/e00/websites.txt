@@ -1,0 +1,11 @@
+Learning websites:
+https://www.w3schools.com/
+https://www.learn-html.org/
+https://learn-c.org/
+
+Mobile apps to learn and develop :
+https://play.google.com/store/apps/details?id=com.sololearn.htmltrial&hl=en&gl=US
+https://play.google.com/store/apps/details?id=com.foxdebug.acodefree&hl=en&gl=US
+
+Desktop applications to develop apps :
+https://code.visualstudio.com/
