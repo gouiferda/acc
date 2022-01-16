@@ -1,0 +1,64 @@
+<html>
+    <head>
+        <title>App age</title>
+    </head>
+    <body dir="rtl">
+
+
+        <h1>تطبيق حساب العمر</h1>
+
+        <label>سنة إزديادك : </label>
+        <br /><br />
+        <input type="text" id="annee_naissance" />
+        <br /><br/><br/>
+
+        <input type="button" onClick="calculer()" value="أحسب الآن" />
+        
+        
+        <br /><br/><br/>
+        <label>عمرك هو : </label>
+        <br><br>
+        <input type="text"  id="age" disabled="disabled" />
+
+        <script>
+
+            // variables //values
+            // functions
+            // conditions
+            // loops
+            // opeartions //structure //...
+            // libraries
+            
+            // age <- 27
+            // variable <- value
+            // = affectation : assign 
+
+            //declaration de varible //define /declare variable
+            
+            function calculer(){
+
+                //annee de naissance de l'utilisateur
+                annee_naissance_value = document.getElementById("annee_naissance").value
+
+                //calcul de l'age
+                age_value_calcule = 2022 - annee_naissance_value
+
+                //definition input
+                age_input = document.getElementById("age")
+
+                age_input.value = age_value_calcule
+
+            }
+
+
+            // call a function
+            // calculer()
+
+
+
+
+
+        </script>
+
+    </body>
+</html>
