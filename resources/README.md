@@ -8,8 +8,9 @@ All the materiels and exercices and examples done during the courses are within 
 - day03 (?) : Command lines and Javascript
 
 ## Learning websites:
-- Learn HTML :
+- Learn HTML (1) :
 https://www.w3schools.com/
+- Learn HTML (2) :
 https://www.learn-html.org/
 - Learn C :
 https://learn-c.org/
